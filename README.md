@@ -1,7 +1,7 @@
 # MacOS_remote
 MacOS Remote Desktop for Xcode &amp; for testing purpose.
 
-IF ANY PROBLEM OCCUR CONTACT ME ON TELEGRAM I WILL PROVIDE YOU VIDEO TUTORIAL OF INSTALATION AND WILL SOLVE YOUR PROBELM 
+IF ANY PROBLEM OCCUR CONTACT ME ON TELEGRAM https://www.t.me/archxpert I WILL PROVIDE YOU VIDEO TUTORIAL OF INSTALATION AND WILL SOLVE YOUR PROBELM 
 
 [<img src="https://i.ytimg.com/vi/MZYly2gmmHs/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=MZYly2gmmHs)
 
