@@ -1,7 +1,7 @@
 # MacOS_remote
 MacOS Remote Desktop for Xcode &amp; for testing purpose.
 
-IF ANY PROBLEM OCCUR CONTACT ME ON TELEGRAM https://www.t.me/archxpert I WILL PROVIDE YOU VIDEO TUTORIAL OF INSTALATION AND WILL SOLVE YOUR PROBELM 
+If sny problem occurs you can contact me on telegram or if you Want to purchase RDP at vrry low price then also you can dm me i will give you rdp first after you can pay And vps also Available At vrry cheap
 
 [<img src="https://i.ytimg.com/vi/MZYly2gmmHs/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=MZYly2gmmHs)
 
